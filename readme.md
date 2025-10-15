@@ -5,8 +5,7 @@ An example OJS theme showing how to configure Vite and use modern frontend libra
 - Hot module reloading (including `.tpl` files)
 - Modern JavaScript module imports
 - Example setup for TailwindCSS 3
-
-Supports themes for OJS 3.4 and 3.5.
+- Supports OJS 3.4/3.5
 
 ## Usage
 
