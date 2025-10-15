@@ -1,0 +1,19 @@
+{
+  "name": "examplevite",
+  "version": "0.2.1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "npx vite",
+    "build": "npx vite build"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.13",
+    "vite": "^5.4.8",
+    "vite-pkp-theme": "^0.1.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

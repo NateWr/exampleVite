@@ -1,0 +1,5 @@
+msgid "plugins.themes.exampleVite.name"
+msgstr "Vite Example Theme"
+
+msgid "plugins.themes.exampleVite.description"
+msgstr "An example theme that shows how to configure Vite for use in a custom OJS theme."
