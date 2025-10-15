@@ -30,6 +30,6 @@ Build vite assets before deploying your theme to production.
 npm run build
 ```
 
-## Credt
+## Credit
 
 This library is distributed under GPL 3.0. It is based on [php-vite](https://github.com/mindplay-dk/php-vite) by [@mindplay-dk](https://github.com/mindplay-dk).
