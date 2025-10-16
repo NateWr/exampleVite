@@ -9,7 +9,6 @@ use PKP\plugins\ThemePlugin;
 class ExampleViteTheme extends ThemePlugin {
 
     public function init() {
-        $this->setParent('defaultthemeplugin');
         $this->addViteAssets(['src/main.js']);
     }
 
