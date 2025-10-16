@@ -12,8 +12,8 @@
 
 <body>
   <h1>
-		{translate key="about.aboutContext"}
-	</h1>
+    {translate key="about.aboutContext"}
+  </h1>
   {$currentContext->getLocalizedData('about')}
   {load_script context="frontend"}
 </html>
